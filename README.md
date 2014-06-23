@@ -1,4 +1,4 @@
 sample-php-cartridge-artifacts-for-upload
 =========================================
 
-sa
+Floow the structure of this "php.tar.gz" for your uploading cartridge artifacts.
